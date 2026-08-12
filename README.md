@@ -60,6 +60,7 @@ uv run pytest
 
 # UI tests, with the server running
 npm install
+npx cypress install   # npm 11 skips Cypress's own installer
 npx cypress run       # or: npx cypress open
 ```
 
