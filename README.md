@@ -9,8 +9,8 @@ on purpose.
 
 ## The scenario
 
-An engineer has opened a pull request adding this feature. The test suite is
-green. They would like to merge it.
+An engineer just finished building this. The test suite is green. They are ready
+to ship it.
 
 **Your job is to decide whether you would ship it.**
 
