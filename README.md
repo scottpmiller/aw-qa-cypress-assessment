@@ -47,7 +47,9 @@ on a Tuesday. Narrate what you ask them and what you make of the answers.
 
 ## Running it
 
-You need Python 3.12+ and Node 20+.
+You need Python 3.12+, [uv](https://docs.astral.sh/uv/), and Node 20+. Get all of
+this working and both suites green before you start your timer. Setup should not
+eat into your 90 minutes.
 
 ```bash
 # API
