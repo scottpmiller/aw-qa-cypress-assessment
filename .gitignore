@@ -6,3 +6,4 @@ cypress/screenshots/
 cypress/videos/
 .pytest_cache/
 uv.lock
+package-lock.json
